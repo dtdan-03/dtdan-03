@@ -2,7 +2,7 @@
 
 Here are some infos about me:
 
-### personal
+### Personal
 - Living in North Rhine-Westphalia, Germany 🇩🇪 🇪🇺
 - speaking several languages (German, English, French, Russian and some sentences of other languages)
 - mainly interested in tech
@@ -20,18 +20,3 @@ Here are some infos about me:
 
 ### Other links
 - Credly: https://www.credly.com/users/daniel-tiessen/
-
-<!--
-**dtdan-03/dtdan-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
