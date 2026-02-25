@@ -3,7 +3,7 @@
 Here are some infos about me:
 
 ### personal
-- Living in North Rhine-Westphalia,Germany 🇩🇪 🇪🇺
+- Living in North Rhine-Westphalia, Germany 🇩🇪 🇪🇺
 - speaking several languages (German, English, French, Russian and some sentences of other languages)
 - mainly interested in tech
 
